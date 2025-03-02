@@ -1,0 +1,14 @@
+Course: Transfiguration: The Art of Metamorphosis
+Code: HP123
+
+Teachers:
+xyundt@example.com
+
+Assessments:
+Assessment 1, 100, 2024-11-15, student-select, instruction1
+Assessment 2, 100, 2024-12-01, teacher-assign, instruction2
+
+Students:
+kennedy.labadie@example.org
+carter.lourdes@example.net
+kennedy.labadie@example.org
