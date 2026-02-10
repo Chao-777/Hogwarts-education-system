@@ -121,9 +121,3 @@ Visit `http://localhost:8000`
 
 Open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
----
-
-**Repository Description** (add to GitHub settings):
-```
-Full-stack education management system built with Laravel, featuring student enrollment, course management, and role-based access control with a Harry Potter theme.
-```
